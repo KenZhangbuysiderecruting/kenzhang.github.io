@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 把下面所有的 YOURUSERNAME 替换成你的 GitHub 用户名 -->
+  <url>
+    <loc>https://YOURUSERNAME.github.io/quantopia-blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://YOURUSERNAME.github.io/quantopia-blog/posts/2026-07-22-sa.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 每发一篇新文章，复制上面这一对 <url>...</url> 加进来，改 loc 里的文件名 -->
+</urlset>
